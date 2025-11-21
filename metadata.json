@@ -1,0 +1,7 @@
+{
+  "name": "Cognito AI Learning",
+  "description": "A personalized AI-powered educational platform for Python programming and Prompt Engineering, featuring interactive lessons, file analysis, and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
